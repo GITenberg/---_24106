@@ -1,0 +1,28 @@
+_repo: '---_24106'
+_version: 0.1.0
+alternative_title: An Le Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daochuo
+    alias: 道綽
+    birthdate: 562
+    deathdate: 645
+    gutenberg_agent_id: '26251'
+    url: http://www.gutenberg.org/2009/agents/26251
+description: ''
+gutenberg_issued: '2008-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24106'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pure Land Buddhism -- Doctrines -- Early works to 1800'
+- !lcc 'BQ'
+title: 安樂集
+url: http://www.gutenberg.org/ebooks/24106
